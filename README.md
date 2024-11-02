@@ -1,0 +1,16 @@
+## Hi there 👋
+
+<!--
+**Querying-higazi/Querying-higazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Data science and Python 
+- 👯 I’m looking to collaborate on data science, and mining, environmental, and structural geoscience projects 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about translation and proof reading 
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
